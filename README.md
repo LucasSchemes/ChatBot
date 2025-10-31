@@ -27,8 +27,8 @@ Siga estes passos para configurar o projeto localmente:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-    cd seu-repositorio
+    git clone [https://github.com/LucasSchemes/ChatBot.git
+    cd ChatBot
     ```
 
 2.  **Crie um ambiente virtual (recomendado):**
